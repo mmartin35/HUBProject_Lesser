@@ -42,6 +42,10 @@ Nous partons du principe que 1 personne = 1 prise
 - Vente: 29,90e TTC (23,90e HT)
 - Rentabilité: 29,90 - 15.90 = 14e HT
 
+## Futur :
+
+- Multiprises avec gestion individuelle (pour les parcs).
+
 ## Sources :
 
 r1: Avec une hausse de 10 % au 1er février, l'**augmentation** des tarifs de l'**électricité** atteindrait environ 39 % sur un an puisqu'ils ont déjà été augmentés de 15 % en février 2023 et de 10 % en août 2023, rapporte Le Parisien. <br>
