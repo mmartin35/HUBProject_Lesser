@@ -51,3 +51,5 @@ r2: https://fr.aliexpress.com/item/1005006176559524.html?spm=a2g0o.productlist.m
 r3: https://fr.aliexpress.com/item/32840365436.html?spm=a2g0o.productlist.main.5.47163244tIyFhx&algo_pvid=a603584e-83a4-4c69-876d-f0d1b2a7a0fd&aem_p4p_detail=2024011502355112060021138327500017474975&algo_exp_id=a603584e-83a4-4c69-876d-f0d1b2a7a0fd-2&pdp_npi=4%40dis%21EUR%214.83%213.91%21%21%215.17%214.19%21%40211b61bb17053149517643221e9d49%2112000016336828198%21sea%21FR%210%21AB&curPageLogUid=68Vk5pvhpjiP&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=2024011502355112060021138327500017474975_3 <br>
 
 r4: https://fr.aliexpress.com/item/1005004262299781.html?spm=a2g0o.productlist.main.99.42e54f582MILJk&algo_pvid=8302aa10-9f84-4098-ba48-cd78dba5e9b8&algo_exp_id=8302aa10-9f84-4098-ba48-cd78dba5e9b8-49&pdp_npi=4%40dis%21EUR%216.90%212.55%21%21%217.38%212.73%21%40211b61bb17053154842745494e9d49%2112000028560066086%21sea%21FR%210%21AB&curPageLogUid=df64gOTYK7Eb&utparam-url=scene%3Asearch%7Cquery_from%3A <br>
+
+r5: https://www.uvek.admin.ch/uvek/fr/home/detec/medias/communiques-de-presse.msg-id-67023.html <br>
