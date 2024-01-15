@@ -26,12 +26,21 @@ Consommation passive de la prise (solution: l'utiliser seulement sur la prise la
 - Prise programmable: 5,30e TTC (4,24e HT) *r2
 - Arduino uno: 3,91e TTC (3.13e HT) *r3
 - Commutateur RF + télécommande: 6,91e TTC (5,53e HT) *r4
+- Assemblage: 3,00e
 
 #### Total:
 
-- TTC: 16,12e
-- HT: 12,90e
-- Vente: 29,90e TTC
+Nous partons du principe que 1 personne = 1 prise
+
+- Entreprise 500 personnes = 11.960e
+- Facture moyenne 500 personnes = 300.000e /an (en Suisse) *r5
+- Déperdition 500 prises = 2 * 500 = 1000e /an
+- 300.000 * 0.11 (économie moyenne /prise) - 1000 = 32.000e
+- 1ère année = 32.000 - 11.960 = 20.400e <br>
+- TTC: 19,08e
+- HT: 15,90e
+- Vente: 29,90e TTC (23,90e HT)
+- Rentabilité: 29,90 - 15.90 = 14e HT
 
 ## Sources :
 
